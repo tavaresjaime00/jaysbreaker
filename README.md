@@ -14,8 +14,7 @@ Completed in under 1-hour, allowing me to work on my fullstack-development skill
 
 ## Acknowledgements
 
- - [Live Demo](https://codepen.io/ewblep/project/editor/XGNnqb)
-  - [Tutorial Used](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript)
+- [Tutorial Used](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript)
 
 
 ## Demo
